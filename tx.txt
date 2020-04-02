@@ -1,0 +1,16 @@
+a.out
+hello
+hello.c
+icsh
+icsh.c
+list.txt
+Makefile
+psh
+psh.c
+running
+running.c
+testArg
+testArg.c
+text.txt
+tx.txt
+vimtest.txt
